@@ -1,4 +1,4 @@
-#  HI 👋
+#  👋
 
 <a href="https://discord.com/users/726815971788062731" target="_blank">
   <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/726815971788062731?theme=light&borderRadius=5px">
